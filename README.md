@@ -4,21 +4,13 @@
 
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ████████╗████████╗██╗  ██╗██╗███████╗██╗   ██╗
-████╗ ████║██╔══██╗╚══██╔══╝╚══██╔══╝██║  ██║██║██╔════╝██║   ██║
-██╔████╔██║███████║   ██║      ██║   ███████║██║█████╗  ██║   ██║
-██║╚██╔╝██║██╔══██║   ██║      ██║   ██╔══██║██║██╔══╝  ██║   ██║
-██║ ╚═╝ ██║██║  ██║   ██║      ██║   ██║  ██║██║███████╗╚██████╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝ 
-```
+<!-- BANNIÈRE ASCII ANIMÉE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FF88&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=███╗+++███╗+█████╗+████████╗████████╗██╗++██╗██╗███████╗██╗+++██╗;████╗+████║██╔══██╗╚══██╔══╝╚══██╔══╝██║++██║██║██╔════╝██║+++██║;██╔████╔██║███████║+++██║+++++██║+++███████║██║█████╗++██║+++██║;██║╚██╔╝██║██╔══██║+++██║+++++██║+++██╔══██║██║██╔══╝++██║+++██║;██║+╚═╝+██║██║++██║+++██║+++++██║+++██║++██║██║███████╗╚██████╔╝;╚═╝+++++╚═╝╚═╝++╚═╝+++╚═╝+++++╚═╝+++╚═╝++╚═╝╚═╝╚══════╝+╚═════╝)](https://github.com/Mbhnnn)
 
-```
-> user.load("Mbhnnn")............[ OK ]
-> role.set("data_analyst / data_scientist")...[ OK ]
-> stack.init(python, sql, ml)....[ OK ]
-> status.get()....................[ ONLINE ]
-```
+<br>
+
+<!-- TYPING EFFECT BIO -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=%3E+user.load(%22Mbhnnn%22)...+%5B+OK+%5D;%3E+role.set(%22data+analyst+%2F+scientist%22)...+%5B+OK+%5D;%3E+stack.init(python%2C+sql%2C+ml)...+%5B+OK+%5D;%3E+status.get()...+%5B+ONLINE+%5D)](https://github.com/Mbhnnn)
 
 </div>
 
@@ -73,17 +65,15 @@ matthieu = {
         └── stack: 
 ```
 
-> *Projets à venir — watch this space.*
-
 ---
 
 ## `$ cat stats.log`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mbhnnn&show_icons=true&theme=chartreuse-dark&bg_color=1a1a2e&border_color=00ff88&title_color=00ff88&text_color=e0e0ff&icon_color=00ff88&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mbhnnn&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&text_color=e0e0ff&icon_color=00ff88)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbhnnn&layout=compact&theme=chartreuse-dark&bg_color=1a1a2e&border_color=00ff88&title_color=00ff88&text_color=e0e0ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbhnnn&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&text_color=e0e0ff)
 
 </div>
 
@@ -92,7 +82,7 @@ matthieu = {
 ## `$ ping me`
 
 ```
-> contact.send("matthieu") ......... 
+> contact.send("matthieu") .........
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/matthieu-bohn-a60298238/)
@@ -102,6 +92,7 @@ matthieu = {
 
 <div align="center">
 
-```
-[ EOF · README.md · @Mbhnnn ]█
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=1000&color=3FB950&background=0D111700&center=true&vCenter=true&width=300&lines=%5B+EOF+%C2%B7+README.md+%C2%B7+%40Mbhnnn+%5D)](https://github.com/Mbhnnn)
+
+</div>
+
