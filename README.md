@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- BANNIÈRE ASCII ANIMÉE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=00FF88&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=███╗+++███╗+█████╗+████████╗████████╗██╗++██╗██╗███████╗██╗+++██╗;████╗+████║██╔══██╗╚══██╔══╝╚══██╔══╝██║++██║██║██╔════╝██║+++██║;██╔████╔██║███████║+++██║+++++██║+++███████║██║█████╗++██║+++██║;██║╚██╔╝██║██╔══██║+++██║+++++██║+++██╔══██║██║██╔══╝++██║+++██║;██║+╚═╝+██║██║++██║+++██║+++++██║+++██║++██║██║███████╗╚██████╔╝;╚═╝+++++╚═╝╚═╝++╚═╝+++╚═╝+++++╚═╝+++╚═╝++╚═╝╚═╝╚══════╝+╚═════╝)](https://github.com/Mbhnnn)
+<!-- BANNIÈRE ANIMÉE -->
+![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=MATTHIEU&fontColor=00ff88&fontSize=60&fontAlign=50&fontAlignY=55&desc=data%20analyst%20%2F%20scientist&descAlign=50&descAlignY=78&descColor=58a6ff&descSize=16&animation=blinking&stroke=00ff88&strokeWidth=1)
 
 <br>
 
@@ -13,6 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=%3E+user.load(%22Mbhnnn%22)...+%5B+OK+%5D;%3E+role.set(%22data+analyst+%2F+scientist%22)...+%5B+OK+%5D;%3E+stack.init(python%2C+sql%2C+ml)...+%5B+OK+%5D;%3E+status.get()...+%5B+ONLINE+%5D)](https://github.com/Mbhnnn)
 
 </div>
+
 
 ---
 
